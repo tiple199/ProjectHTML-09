@@ -274,6 +274,7 @@ a{
 /* directories */
 .directories{
     margin:160px 0;
+    
 }
 .directory__inner{
     flex-direction: row-reverse;
@@ -674,4 +675,10 @@ a{
 .img__media_footer{
     display: flex;
     gap: 16px;
+}
+.decor__listener_02{
+    position: relative;
+    right: -869px;
+    width: 187px;
+    top: 118px;
 }
